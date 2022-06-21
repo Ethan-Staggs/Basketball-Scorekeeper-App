@@ -1,5 +1,6 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+![splashlogo](https://user-images.githubusercontent.com/78055596/174912108-c2dde585-66d1-4261-8b51-f60b24ecd1f2.png)
 
 
 # Basketball Scorekeeper
@@ -12,9 +13,17 @@ between two basketball teams!
 
 ## Demo
 
-Insert gif or link to demo
 
 
-## Screenshots
+https://user-images.githubusercontent.com/78055596/174911910-1a934c91-c8e6-4854-b978-050a0a152708.mp4
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+
+
+
+
+
+
+
+
